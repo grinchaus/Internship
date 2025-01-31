@@ -9,11 +9,11 @@
 
 | №  | Проект          | Ссылка                          |
 |----|-----------------|---------------------------------|
-| 1  | **Age Test**    | [AgeTest](./AgeTest)              |
-| 2  | **Memory**      | [MemoryGame](/MemoryGame)           |
-| 3  | **Tic Tac Toe** | [TicTacToe](TicTacToe)            |
-| 4  | **Calculator**  | [Calculator](Calculator)           |
-| 5  | **Checkers**    | [Checkers](Checkers)             |
+| 1  | **Age Test**    | [Age Test](Age Test)              |
+| 2  | **Memory**      | [Memory](Memory)           |
+| 3  | **Tic Tac Toe** | [Tic Tac Toe](Tic Tac Toe)            |
+| 4  | **Calculator**  | [Calculator](./Calculator)           |
+| 5  | **Checkers**    | [Checkers](/Checkers)             |
 
 ---
 
