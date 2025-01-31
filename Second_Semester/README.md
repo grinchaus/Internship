@@ -1,3 +1,5 @@
+# Тесты к курсу «Парадигмы программирования»
+
 [Условия домашних заданий](https://www.kgeorgiy.info/courses/paradigms/homeworks.html)
 
 
